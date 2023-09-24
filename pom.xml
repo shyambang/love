@@ -12,7 +12,7 @@
 			<resource>
 				<directory>src</directory>
 				<excludes>
-					<exclude>**/*.java</exclude> shyam
+					<exclude>**/*.java</exclude> 
 				</excludes>
 			</resource>
 		</resources>
